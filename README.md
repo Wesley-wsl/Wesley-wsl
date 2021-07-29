@@ -23,9 +23,9 @@
 
 </br>
 
-<p><img align='left' src='https://github-readme-stats.vercel.app/api?username=Wesley-wsl&show_icons=true&theme=chartreuse-dark' style='max-width: 100%' width="495"/></p>
+<p><img align='left' src='https://github-readme-stats.vercel.app/api?username=Wesley-wsl&show_icons=true&theme=chartreuse-dark' style='max-width: 100%' width="495px"/></p>
 
-<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="wesley-wsl" style='max-width: 100%' width="350"/></p>
+<p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="wesley-wsl" style='max-width: 100%' width="350px"/></p>
 
 <p> </br> Note: Top languages is only a metric of the languages my public code consist of and doesn't reflect experience or skill level. </p>
 
