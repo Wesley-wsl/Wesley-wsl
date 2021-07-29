@@ -25,17 +25,17 @@
 
 </br>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align='left' width="445px" src='https://github-readme-stats.vercel.app/api?username=Wesley-wsl&show_icons=true&theme=chartreuse-dark'/></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align='left' width="445px" src='https://github-readme-stats.vercel.app/api?username=Wesley-wsl&show_icons=true&theme=chartreuse-dark&count_private=true'/></a>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="bottom" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="wesley-wsl"/></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="bottom" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="wesley-wsl"/></a>
 
 <p> </br> Note: Top languages is only a metric of the languages my public code consist of and doesn't reflect experience or skill level. </p>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wesley-wsl&theme=chartreuse-dark&line=17bf1a&point=70e000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wesley-wsl&theme=chartreuse-dark&line=17bf1a&point=70e000)](https://github.com/ashutosh00710/github-readme-activity-graph&count_private=true)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-wsl&label=Profile%20views&color=17bf1a&style=flat" alt="wesley-wsl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-wsl&label=Profile%20views&color=17bf1a&style=flat&count_private=true" alt="wesley-wsl" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
