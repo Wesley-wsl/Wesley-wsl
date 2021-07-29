@@ -25,9 +25,9 @@
 
 </br>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align='left' src='https://github-readme-stats.vercel.app/api?username=Wesley-wsl&show_icons=true&theme=chartreuse-dark' style='max-width: 100%' width="495px"/></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align='left' width="445px" src='https://github-readme-stats.vercel.app/api?username=Wesley-wsl&show_icons=true&theme=chartreuse-dark'/></a>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="wesley-wsl" style='max-width: 100%' width="350px"/></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="bottom" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="wesley-wsl"/></a>
 
 <p> </br> Note: Top languages is only a metric of the languages my public code consist of and doesn't reflect experience or skill level. </p>
 
