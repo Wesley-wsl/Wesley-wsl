@@ -5,7 +5,7 @@
 
 ## 📃 - About me
 
-- 🌱 I’m currently learning **React.js, Redux and TypeScript**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **wesleywestelley@gmail.com**
 
