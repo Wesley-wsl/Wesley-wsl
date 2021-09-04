@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **wesleywestelley@gmail.com**
 
-- ⚡ Fun fact: **I like to play and watch anime in free time.**
+- ⚡ Fun fact: **I like to play and watch anime/movie in free time.**
 
 
 ### 🚀 - Languages and Tools:
