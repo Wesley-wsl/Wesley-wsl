@@ -3,44 +3,43 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚆𝚎𝚜𝚕𝚎𝚢</h1>
 <h3 align="center">𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
-## 📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+##📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔**
 
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚠𝚎𝚜𝚕𝚎𝚢𝚠𝚎𝚜𝚝𝚎𝚕𝚕𝚎𝚢@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊𝚗𝚍 𝚠𝚊𝚝𝚌𝚑 𝚊𝚗𝚒𝚖𝚎/𝚖𝚘𝚟𝚒𝚎 𝚒𝚗 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎.
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊𝚗𝚍 𝚠𝚊𝚝𝚌𝚑 𝚊𝚗𝚒𝚖𝚎/𝚖𝚘𝚟𝚒𝚎 𝚒𝚗 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎.**
 
 
 ### 🚀 - 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
-
 <p align="left"> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=whit" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />  
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />  
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />  
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />  
-<img src="https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white" />  
-<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />  
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />  
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio-0078D4?style=for-the-badge&logo=visual%20studio&logoColor=white" />  
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />  
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />  
-<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=70e000" />
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=70e000" />
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=70e000" />
+<img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=70e000" />
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=70e000" />
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=70e000" />
+<img src="https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm&logoColor=70e000" />
+<img src="https://img.shields.io/badge/Yarn-000?style=for-the-badge&logo=yarn&logoColor=70e000" />
+<img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=70e000" />
+<img src="https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest&logoColor=70e000" />
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=electron&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=graphql&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/strapi-000?style=for-the-badge&logo=strapi&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/Insomnia-000?style=for-the-badge&logo=Insomnia&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=70e000" />
+<img src="https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier&logoColor=70e000" />  
 </p>
 
 
@@ -65,18 +64,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-wsl&label=Profile%20views&color=17bf1a&style=flat&count_private=true" alt="wesley-wsl" /> </p>
 
+
+<h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
+<p align="left">
+<img src="https://img.shields.io/badge/Jorkis2652-000?style=for-the-badge&logo=discord&logoColor=70e000" />
+ </p>
+ 
+ <p align="left">
+<img src="https://img.shields.io/badge/wesleywestelley@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=70e000" />
+ </p>
+
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
 
 ![Metrics](https://metrics.lecoq.io/Wesley-wsl?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
 
 </details>
-
-<h3 align="left">𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝗐𝗂𝗍𝗁 𝗆𝖾:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/Jorkis2652-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
- </p>
- 
- <p align="left">
-<img src="https://img.shields.io/badge/wesleywestelley@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </p>
