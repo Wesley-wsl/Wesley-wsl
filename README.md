@@ -3,7 +3,7 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚆𝚎𝚜𝚕𝚎𝚢</h1>
 <h3 align="center">𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
-##📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+## 📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔**
 
@@ -49,7 +49,8 @@
 
 <p align='center'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Wesley-wsl&theme=chartreuse-dark' /> </p>
 
-## 🏆 - 𝙼𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜
+
+### 🏆 - 𝙼𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜
 
 </br>
 
@@ -61,9 +62,12 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Wesley-wsl&theme=chartreuse-dark&line=17bf1a&point=70e000" width="870px" />
 
+ <details>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-wsl&label=Profile%20views&color=17bf1a&style=flat&count_private=true" alt="wesley-wsl" /> </p>
+![Metrics](https://metrics.lecoq.io/Wesley-wsl?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
 
+</details>
 
 <h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
 <p align="left">
@@ -74,9 +78,4 @@
 <img src="https://img.shields.io/badge/wesleywestelley@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=70e000" />
  </p>
 
-<details>
-  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
 
-![Metrics](https://metrics.lecoq.io/Wesley-wsl?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
-
-</details>
