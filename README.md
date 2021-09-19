@@ -12,7 +12,7 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊𝚗𝚍 𝚠𝚊𝚝𝚌𝚑 𝚊𝚗𝚒𝚖𝚎/𝚖𝚘𝚟𝚒𝚎 𝚒𝚗 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎.**
 
 
-#### 🚀 - 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
+### 🚀 - 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=70e000" />
 <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=70e000" />
