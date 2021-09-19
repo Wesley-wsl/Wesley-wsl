@@ -1,18 +1,18 @@
 <p align='center'> <img src='https://31.media.tumblr.com/e75a543e8951d83f8c34e190c0e11e21/tumblr_mp4tjzHQtc1re9sg9o1_500.gif' /> </p>
 
-<h1 align="center">Hi 👋, I'm Wesley</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚆𝚎𝚜𝚕𝚎𝚢</h1>
+<h3 align="center">𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
-## 📃 - About me
+##📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔**
 
-- 📫 How to reach me **wesleywestelley@gmail.com**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚠𝚎𝚜𝚕𝚎𝚢𝚠𝚎𝚜𝚝𝚎𝚕𝚕𝚎𝚢@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
-- ⚡ Fun fact: **I like to play and watch anime/movie in free time.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊𝚗𝚍 𝚠𝚊𝚝𝚌𝚑 𝚊𝚗𝚒𝚖𝚎/𝚖𝚘𝚟𝚒𝚎 𝚒𝚗 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎.**
 
 
-### 🚀 - Languages and Tools:
+### 🚀 - 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -49,7 +49,7 @@
 
 <p align='center'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Wesley-wsl&theme=chartreuse-dark' /> </p>
 
-## 🏆 - My github stats
+## 🏆 - 𝙼𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜
 
 </br>
 
@@ -57,7 +57,7 @@
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="bottom" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="wesley-wsl"/></a>
 
-<p> </br> Note: Top languages is only a metric of the languages my public code consist of and doesn't reflect experience or skill level. </p>
+<p> </br>𝙽𝚘𝚝𝚎: 𝚃𝚘𝚙 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚒𝚜 𝚘𝚗𝚕𝚢 𝚊 𝚖𝚎𝚝𝚛𝚒𝚌 𝚘𝚏 𝚝𝚑𝚎 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚖𝚢 𝚙𝚞𝚋𝚕𝚒𝚌 𝚌𝚘𝚍𝚎 𝚌𝚘𝚗𝚜𝚒𝚜𝚝 𝚘𝚏 𝚊𝚗𝚍 𝚍𝚘𝚎𝚜𝚗'𝚝 𝚛𝚎𝚏𝚕𝚎𝚌𝚝 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚜𝚔𝚒𝚕𝚕 𝚕𝚎𝚟𝚎𝚕.</p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Wesley-wsl&theme=chartreuse-dark&line=17bf1a&point=70e000" width="870px" />
 
@@ -65,7 +65,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-wsl&label=Profile%20views&color=17bf1a&style=flat&count_private=true" alt="wesley-wsl" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Jorkis2652-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
  </p>
@@ -73,3 +73,10 @@
  <p align="left">
 <img src="https://img.shields.io/badge/wesleywestelley@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </p>
+
+<details>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
+
+![Metrics](https://metrics.lecoq.io/Wesley-wsl?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+
+</details>
