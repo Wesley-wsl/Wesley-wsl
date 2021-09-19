@@ -74,12 +74,17 @@
 <img src="https://img.shields.io/badge/wesleywestelley@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </p>
 
+
 #### Top
-
-<GITHUB_REPOS:{"rows": 2, "sort": "stars"}
-
+<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
 
 ### :zap: Recent Activity
 
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
 
-<GITHUB_ACTIVITY:{"rows": 5}
+<details>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
+
+![Metrics](https://metrics.lecoq.io/Wesley-wsl?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+
+</details>
