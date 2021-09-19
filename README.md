@@ -3,16 +3,17 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚆𝚎𝚜𝚕𝚎𝚢</h1>
 <h3 align="center">𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
-##📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
+## 📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔**
 
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚠𝚎𝚜𝚕𝚎𝚢𝚠𝚎𝚜𝚝𝚎𝚕𝚕𝚎𝚢@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊𝚗𝚍 𝚠𝚊𝚝𝚌𝚑 𝚊𝚗𝚒𝚖𝚎/𝚖𝚘𝚟𝚒𝚎 𝚒𝚗 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚙𝚕𝚊𝚢 𝚊𝚗𝚍 𝚠𝚊𝚝𝚌𝚑 𝚊𝚗𝚒𝚖𝚎/𝚖𝚘𝚟𝚒𝚎 𝚒𝚗 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎.
 
 
 ### 🚀 - 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:
+
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -64,8 +65,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-wsl&label=Profile%20views&color=17bf1a&style=flat&count_private=true" alt="wesley-wsl" /> </p>
 
+<details>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
 
-<h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
+![Metrics](https://metrics.lecoq.io/Wesley-wsl?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+
+</details>
+
+<h3 align="left">𝖢𝗈𝗇𝗇𝖾𝖼𝗍 𝗐𝗂𝗍𝗁 𝗆𝖾:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Jorkis2652-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
  </p>
@@ -73,10 +80,3 @@
  <p align="left">
 <img src="https://img.shields.io/badge/wesleywestelley@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </p>
-
-<details>
-  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
-
-![Metrics](https://metrics.lecoq.io/Wesley-wsl?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
-
-</details>
