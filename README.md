@@ -1,7 +1,7 @@
 <p align='center'> <img src='https://31.media.tumblr.com/e75a543e8951d83f8c34e190c0e11e21/tumblr_mp4tjzHQtc1re9sg9o1_500.gif' /> </p>
 
 <h1 align="center">Hi 👋, I'm Wesley</h1>
-<h3 align="center">Studying full stack development</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ## 📃 - About me
 
@@ -53,9 +53,9 @@
 
 </br>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align='left' width="390px" src='https://github-readme-stats.vercel.app/api?username=Wesley-wsl&show_icons=true&theme=chartreuse-dark&count_private=true'/></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align='left' width="430px" src='https://github-readme-stats.vercel.app/api?username=Wesley-wsl&show_icons=true&theme=chartreuse-dark&count_private=true'/></a>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="bottom" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="wesley-wsl"/></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="bottom" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wesley-wsl&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="wesley-wsl"/></a>
 
 <p> </br> Note: Top languages is only a metric of the languages my public code consist of and doesn't reflect experience or skill level. </p>
 
