@@ -76,10 +76,10 @@
 
 #### Top
 
-<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
+<GITHUB_REPOS:{"rows": 2, "sort": "stars"}
 
 
 ### :zap: Recent Activity
 
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
+<GITHUB_ACTIVITY:{"rows": 5}
