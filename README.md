@@ -82,11 +82,10 @@
 </details>
 
 <h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
-
- <p align="left">
-<img src="https://img.shields.io/badge/wesleywestelley@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=70e000" />
+<p align="left">
+<img src="https://img.shields.io/badge/Jorkis2652-000?style=for-the-badge&logo=discord&logoColor=70e000" /> - ( 𝖩𝗈𝗋𝗄𝗂𝗌#𝟤𝟨𝟧𝟤 )
  </p>
  
  <p align="left">
-<img src="https://cloud.githubusercontent.com/assets/1063865/25163886/8a8ff390-2521-11e7-800e-9361826fa9bb.png" width="30px" /> 𝖩𝗈𝗋𝗄𝗂𝗌#𝟤𝟨𝟧𝟤
+<img src="https://img.shields.io/badge/wesleywestelley@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=70e000" />
  </p>
