@@ -5,7 +5,7 @@
 
 ## 📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝖭𝖾𝗑𝗍.𝗃𝗌**
 
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚠𝚎𝚜𝚕𝚎𝚢𝚠𝚎𝚜𝚝𝚎𝚕𝚕𝚎𝚢@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=graphql&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase&logoColor=70e000" />  
-<img src="https://img.shields.io/badge/strapi-000?style=for-the-badge&logo=strapi&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/Insomnia-000?style=for-the-badge&logo=Insomnia&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/Cypress-000?style=for-the-badge&logo=cypress&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=70e000" />
