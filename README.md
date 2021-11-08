@@ -59,19 +59,13 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Wesley-wsl&theme=chartreuse-dark&line=17bf1a&point=70e000" width="870px" />
 
-#### 𝖳𝗈𝗉
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 1 | [Wesley-wsl/biblioteca-backend](https://github.com/Wesley-wsl/biblioteca-backend) | Sistema de gerenciamento de biblioteca. |
-| 📦 | 1 | [Wesley-wsl/CineTrending](https://github.com/Wesley-wsl/CineTrending) | CineTrending is a project that show the top 10 trending movies/series for day and your information. |
-
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
+* ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
 * ⬆️ Pushed 1 commit to Wesley-wsl/space-tourism
 * ⬆️ Pushed 1 commit to Wesley-wsl/space-tourism
 * ⬆️ Pushed 15 commits to Wesley-wsl/space-tourism
 * ⬆️ Pushed 1 commit to Wesley-wsl/space-tourism
-* ⬆️ Pushed 6 commits to Wesley-wsl/space-tourism
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
