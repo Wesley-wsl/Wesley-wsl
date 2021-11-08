@@ -59,9 +59,6 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Wesley-wsl&theme=chartreuse-dark&line=17bf1a&point=70e000" width="870px" />
 
-#### 𝖳𝗈𝗉
-<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
-
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
