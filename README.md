@@ -62,9 +62,9 @@
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
 * ⬆️ Pushed 1 commit to Wesley-wsl/photosnap
+* ⬆️ Pushed 1 commit to Wesley-wsl/photosnap
 * ⬆️ Pushed 4 commits to Wesley-wsl/photosnap
 * ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
-* ⬆️ Pushed 1 commit to Wesley-wsl/space-tourism
 * ⬆️ Pushed 1 commit to Wesley-wsl/space-tourism
 
 <details>
