@@ -34,10 +34,12 @@
 <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=70e000" />
 <img src="https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/Leaflet-000?style=for-the-badge&logo=Leaflet&logoColor=70e000" />
 <img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier&logoColor=70e000" />  
+
 </p>
 
 
