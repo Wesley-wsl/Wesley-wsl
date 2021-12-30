@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=70e000" />  
 </p>
 
 
