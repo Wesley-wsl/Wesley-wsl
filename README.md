@@ -5,7 +5,7 @@
 
 ## 📃 - 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **React Native**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝖭𝖾𝗑𝗍.𝗃𝗌**
 
 - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚠𝚎𝚜𝚕𝚎𝚢𝚠𝚎𝚜𝚝𝚎𝚕𝚕𝚎𝚢@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
@@ -38,11 +38,8 @@
 <img src="https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier&logoColor=70e000" />  
-<img src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=70e000" />  
-<img src="https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=70e000" />  
-<img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=70e000" />  
-  
 </p>
+
 
 </br>
 </br>
@@ -64,10 +61,10 @@
 
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
-* ⬆️ Pushed 1 commit to Wesley-wsl/NikeShoes-FullStack
-* ⬆️ Pushed 1 commit to Wesley-wsl/space-tourism
-* ⬆️ Pushed 2 commits to Wesley-wsl/NikeShoes-FullStack
-* 🍴 Forked Wesley-wsl/NewGoBarber-FullStack from ARTHURPC03/NewGoBarber-FullStack
+* ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
+* ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
+* ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
+* ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
 * ⬆️ Pushed 1 commit to Wesley-wsl/NikeShoes-FullStack
 
 <details>
