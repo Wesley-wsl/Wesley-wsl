@@ -61,10 +61,10 @@
 
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
+* ⬆️ Pushed 2 commits to Wesley-wsl/NikeShoes-frontend
 * ⬆️ Pushed 1 commit to Wesley-wsl/NikeShoes-frontend
 * ⬆️ Pushed 2 commits to Wesley-wsl/NikeShoes-frontend
 * ⬆️ Pushed 1 commit to Wesley-wsl/NikeShoes-backend
-* ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
 * ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
 
 <details>
