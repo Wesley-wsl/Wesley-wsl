@@ -23,7 +23,8 @@
 <img src="https://img.shields.io/badge/Yarn-000?style=for-the-badge&logo=yarn&logoColor=70e000" />
 <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=70e000" />
 <img src="https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest&logoColor=70e000" />
-<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=70e000" />
+<img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=70e000" />
 <img src="https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=electron&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=graphql&logoColor=70e000" />  
