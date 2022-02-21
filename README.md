@@ -66,10 +66,10 @@
 
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
+* ⬆️ Pushed 2 commits to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 5 commits to Wesley-wsl/MySpotify
 * ⬆️ Pushed 2 commits to Wesley-wsl/MySpotify
-* ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 
 <details>
