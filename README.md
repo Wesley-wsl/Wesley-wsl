@@ -70,7 +70,7 @@
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
-* ⬆️ Pushed 2 commits to Wesley-wsl/MySpotify
+* ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
