@@ -68,8 +68,8 @@
 
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
-* ⬆️ Pushed 4 commits to Wesley-wsl/MySpotify
-* ⬆️ Pushed 2 commits to Wesley-wsl/MySpotify
+* ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
+* ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 
 <details>
