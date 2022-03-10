@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=70e000" />
 <img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=70e000" />
 <img src="https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=electron&logoColor=70e000" />  
-<img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/GraphQl-000?style=for-the-badge&logo=graphql&logoColor=70e000" />
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-000?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=70e000" />  
@@ -40,9 +39,11 @@
 <img src="https://img.shields.io/badge/styled--components-000?style=for-the-badge&logo=styled-components&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=70e000" />  
 <img src="https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier&logoColor=70e000" />  
-<img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=70e000" />  
+<img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=70e000" />
+<img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=70e000" />
 <img src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=70e000" />   
 <img src="https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=70e000" />  
+
 </p>
 
 
