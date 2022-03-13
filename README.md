@@ -67,10 +67,10 @@
 
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
+* ⬆️ Pushed 3 commits to Wesley-wsl/MySpotify
 * ⬆️ Pushed 4 commits to Wesley-wsl/NikeShoes-backend
 * ⬆️ Pushed 4 commits to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
-* ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
 * ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
 
 <details>
