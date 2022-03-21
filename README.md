@@ -81,10 +81,16 @@
 </details>
 
 <h3 align="left">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
+  <a href="https://www.linkedin.com/in/wesley-westellley-116852226/">
+ <p align="left">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=70e000" />
+ </p>
+ </a>
 <p align="left">
 <img src="https://img.shields.io/badge/Jorkis2652-000?style=for-the-badge&logo=discord&logoColor=70e000" /> - ( 𝖩𝗈𝗋𝗄𝗂𝗌#𝟤𝟨𝟧𝟤 )
  </p>
- 
  <p align="left">
 <img src="https://img.shields.io/badge/wesleywestelley@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=70e000" />
  </p>
+
+
