@@ -67,10 +67,10 @@
 
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
-* ⬆️ Pushed 3 commits to Wesley-wsl/Spotify-JS-Expert-06
-* ⬆️ Pushed 5 commits to Wesley-wsl/Spotify-JS-Expert-06
-* ⬆️ Pushed 1 commit to Wesley-wsl/Spotify-JS-Expert-06
-* ⬆️ Pushed 2 commits to Wesley-wsl/Spotify-JS-Expert-06
+* ⬆️ Pushed 1 commit to Wesley-wsl/ProjectManager-api
+* ⬆️ Pushed 1 commit to Wesley-wsl/ProjectManager-api
+* ⬆️ Pushed 1 commit to Wesley-wsl/ProjectManager-api
+* ⬆️ Pushed 1 commit to Wesley-wsl/ProjectManager-api
 * ⬆️ Pushed 1 commit to Wesley-wsl/ProjectManager-api
 
 <details>
