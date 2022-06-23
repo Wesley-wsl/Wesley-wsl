@@ -70,7 +70,7 @@
 * ⬆️ Pushed 1 commit to Wesley-wsl/Tweeter-frontend
 * ⬆️ Pushed 1 commit to Wesley-wsl/Tweeter-frontend
 * ⬆️ Pushed 1 commit to Wesley-wsl/Tweeter-frontend
-* ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
+* ⬆️ Pushed 1 commit to Wesley-wsl/Tweeter-frontend
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 
 <details>
