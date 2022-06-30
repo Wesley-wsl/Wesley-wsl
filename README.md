@@ -67,9 +67,9 @@
 
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
+* ⬆️ Pushed 8 commits to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 9 commits to Wesley-wsl/MySpotify
-* ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 * ⬆️ Pushed 1 commit to Wesley-wsl/MySpotify
 
