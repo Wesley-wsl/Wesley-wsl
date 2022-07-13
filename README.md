@@ -67,11 +67,11 @@
 
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
+* ⬆️ Pushed 3 commits to Wesley-wsl/Tweeter-frontend
 * ⬆️ Pushed 4 commits to Wesley-wsl/Tweeter-frontend
 * ⬆️ Pushed 6 commits to Wesley-wsl/Tweeter-frontend
 * ⬆️ Pushed 1 commit to Wesley-wsl/Tweeter-frontend
 * ⬆️ Pushed 15 commits to Wesley-wsl/Tweeter-frontend
-* ⬆️ Pushed 1 commit to Wesley-wsl/Tweeter-backend
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
