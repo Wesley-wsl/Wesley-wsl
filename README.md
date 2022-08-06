@@ -71,7 +71,7 @@
 * ⬆️ Pushed 1 commit to Wesley-wsl/CodeDelivery
 * ⬆️ Pushed 1 commit to Wesley-wsl/CodeDelivery
 * ⬆️ Pushed 1 commit to Wesley-wsl/CodeDelivery
-* ⬆️ Pushed 1 commit to Wesley-wsl/Wesley-wsl
+* ⬆️ Pushed 1 commit to Wesley-wsl/CodeDelivery
 
 <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
