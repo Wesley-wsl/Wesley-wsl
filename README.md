@@ -67,10 +67,10 @@
 
 ### :zap: 𝖱𝖾𝖼𝖾𝗇𝗍 𝖠𝖼𝗍𝗂𝗏𝗂𝗍𝗒
 
+* ⬆️ Pushed 1 commit to Wesley-wsl/sonarcloud
+* 💪 Opened PR #1 in Wesley-wsl/sonarcloud
 * 🎉 Merged PR #3 in Wesley-wsl/ci-go
 * ⬆️ Pushed 4 commits to Wesley-wsl/ci-go
-* ⬆️ Pushed 1 commit to Wesley-wsl/ci-go
-* 💪 Opened PR #3 in Wesley-wsl/ci-go
 * ⬆️ Pushed 1 commit to Wesley-wsl/ci-go
 
 <details>
